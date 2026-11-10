@@ -80,7 +80,7 @@
   transition: transform 0.2s ease;
 }
 
-html.dark .theme-toggle__thumb {
+html.light .theme-toggle__thumb {
   transform: translateX(44px);
 }
 
